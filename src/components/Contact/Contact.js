@@ -7,7 +7,7 @@ class Contact extends Component {
     // what is returned from render() is what will be on displayed on the DOM
     render() {
         return (
-            <sction>
+            <section>
                 <h2>Contact</h2>
                 <p>Phone: 1-800-WE-REACT</p>
                 <p>INFO@ReactActors.com</p>
